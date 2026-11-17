@@ -1,11 +1,11 @@
 # Tobe Martins — Portfolio
 
-Next.js + Tailwind CSS portfolio.
+Next.js portfolio.
 
 ## Editing content
 All text, projects, links and experience live in **`src/content.ts`**. Paste your info there.
 Project images go in `public/projects/` and are referenced as `"/projects/your-image.jpg"`.
-Colours are set at the top of `src/app/globals.css`.
+Styles and colours live in `src/app/globals.css`.
 
 ## Run locally
 ```bash
